@@ -1,6 +1,6 @@
 # Import python packages
 import streamlit as st
-import os
+#import os
 from snowflake.snowpark.functions import col
 
 # Write directly to the app
